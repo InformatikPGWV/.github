@@ -5,7 +5,6 @@
 *- keine Projektbeschreibung -*
 
 ### Repos:
-- game_app
-- game_server
-- storygame
-
+- [game_app](https://github.com/InformatikPGWV/game_app)
+- [game_server](https://github.com/InformatikPGWV/game_server)
+- [storygame](https://github.com/InformatikPGWV/storygame)
