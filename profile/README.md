@@ -1,18 +1,7 @@
-# 2021/2022 (Jg. 11)
+<h1 align="center">👋 Hi</h1>
 
-## Verschlüsselungsverfahren oder **Spiel**:
+## Projekte:
 
-*- keine Projektbeschreibung -*
+### 2021 / 2022:
 
-### Repos:
-#### Aktiv:
-- [game_pong](https://github.com/InformatikPGWV/game_pong)
-
-<br/>
-
-- [game_app](https://github.com/InformatikPGWV/game_app)
-- [game_server](https://github.com/InformatikPGWV/game_server)
-
-#### Entwicklung pausiert:
-- [storygame](https://github.com/InformatikPGWV/storygame)
-
+- [Verschlüsselungsverfahren oder **Spiel**](projects_2021-2022/verschluesselungsverfahren_oder_spiel.md)
