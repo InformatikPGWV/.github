@@ -4,4 +4,4 @@
 
 ### 2021 / 2022:
 
-- [Verschlüsselungsverfahren oder **Spiel**](projects_2021-2022/verschluesselungsverfahren_oder_spiel.md)
+- [Verschlüsselungsverfahren oder **Spiel**](https://github.com/InformatikPGWV/.github/blob/main/profile/projects_2021-2022/verschluesselungsverfahren_oder_spiel.md)
